@@ -39,6 +39,6 @@ Future enhancements may include integration with Power BI for interactive dashbo
 Final-year Computer Science Engineering Student | Data Analytics Enthusiast  
 - 📍 Gwalior, India  
 - 📧 Email: rishabbhadoriya@gmail.com  
-- 🌐 LinkedIn: [Connect with me](www.linkedin.com/in/hrishabh-bhadoriya-6487bb2ba)  
+- 🌐 LinkedIn: [Connect with me](https//www.linkedin.com/in/hrishabh-bhadoriya-6487bb2ba)  
 
 
